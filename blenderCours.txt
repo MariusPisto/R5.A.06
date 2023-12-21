@@ -1,5 +1,5 @@
 rendu: 2 collections: fichier final + fichier de base avant avec les modifiers ect.
 
-a rendre : piece + tonneau + l'autre
+a rendre : piece + tonneau + l'autre + uv file
 
 pour le tonneau faire un join
